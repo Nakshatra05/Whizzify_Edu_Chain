@@ -6,6 +6,8 @@ Whizzify is a Web3 platform designed to revolutionize participant engagement in 
 
 Whizzify aims to empower educational institutions and organizations with an easy-to-use tool for creating quizzes based on course or session content. The platform automatically generates quiz questions from the provided material and rewards participants instantly for correct answers, fostering active learning and engagement.
 
+![Screenshot 2024-07-14 081557](https://github.com/user-attachments/assets/715c4cef-3d3b-4504-aa5d-12cc38ba945c)
+
 ## Problem
 
 Educational institutions often face challenges in assessing learner engagement and managing rewards:
