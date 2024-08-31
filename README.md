@@ -2,7 +2,7 @@
 
 Whizzify is a Web3 platform designed to revolutionize participant engagement in educational settings by automating quiz generation and reward distribution. Built on **EDU Chain**, an L3 Rollup Chain on the **Arbitrum Orbit Stack**, Whizzify leverages the latest in blockchain and AI technology to create a seamless and efficient process for both educators and learners.
 
-![Screenshot 2024-07-14 081557](https://github.com/user-attachments/assets/715c4cef-3d3b-4504-aa5d-12cc38ba945c)
+![Screenshot 2024-07-14 082148](https://github.com/user-attachments/assets/1b696e22-50df-478d-9bdb-8252bdff58ef)
 
 ## Project Overview
 
